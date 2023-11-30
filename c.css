@@ -1,0 +1,49 @@
+ body{
+            background-color: rgb(165, 180, 116);
+        }
+        .center{
+            background-color: rgb(136, 212, 212);
+        margin: auto;
+        width:220px;
+        height: 280px;
+        z-index: 10;
+        margin-top: 100px;
+        
+        }
+  input{
+    margin-top: 20px;
+    width: 200px;
+    height: 30px;
+    margin-left: 6px;
+
+  }
+  .s{
+    background-color: aliceblue;
+    width: 35px;
+    height: 35px;
+    margin-top: 18px;
+    margin-left: 14px;
+    display: inline-block;
+    
+    
+
+    
+
+  }
+.c{
+    margin: auto;
+    padding: 10px;
+}
+  
+.d{
+    background-color: rgb(240, 230, 119);
+}
+
+.e{
+    background-color: rgb(248, 118, 118);
+}
+.s.hover{
+background-color: chocolate;
+
+    /* opacity: 0.5; */
+}

@@ -1,0 +1,56 @@
+.logo{
+    background-color: rgb(245, 37, 37);
+   height: 100px;
+    padding: 30px;
+    text-align: center;
+    
+}
+.wh{
+    background-color: rgb(37, 112, 26);
+height: 100px;
+    
+    text-align: center;
+    padding: 30px;
+    
+    
+}
+.col-12{
+background-color:rgb(234, 248, 85);
+height: 50px;
+text-align: center;
+padding: 10px;
+}
+.l{
+    background-color:rgb(60, 51, 236);
+    height: 150px;
+    text-align: center;
+    padding: 50px;
+}
+.s{
+    background-color:rgb(87, 88, 82);
+    text-align: center;
+    padding: 50px;
+
+}
+.p{
+    background-color:rgb(225, 132, 225);
+     text-align: center;
+     padding: 50px;
+}
+.c{
+    background-color:rgb(92, 230, 112);
+    height: 250px;
+    text-align: center;
+    padding: 100px;
+}
+.b{
+    background-color:rgb(102, 133, 60);
+    text-align: center;
+    padding: 90px;
+}
+.f{
+    background-color:rgb(99, 218, 241);
+    text-align: center;
+    padding: 10px;
+    
+}
